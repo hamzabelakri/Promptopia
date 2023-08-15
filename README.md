@@ -8,7 +8,9 @@ Tailwind CSS Styling: Craft a polished and modern user interface using Tailwind 
 
 ## Technologies Used
 Frontend: Next.js, Tailwind CSS
+
 Backend: MongoDB
+
 Authentication: Google Next.js Auth
 
 ## Deployment:
